@@ -1,14 +1,14 @@
 {
-  "name": "track-finance-backend",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "Backend for TrackFinance app",
-  "scripts": {
-    "start": "json-server --watch db.json --port $PORT --no-cors --static ./nonexistent"
-  },
+"scripts": {
+  "start": "json-server --watch db.json --port $PORT"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "dependencies": {
-    "json-server": "^0.17.0"
-  },
-  "engines": {
-    "node": "18.x"
+    "json-server": "^1.0.0-beta.3"
   }
 }
