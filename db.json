@@ -1,15 +1,5 @@
 {
     "transactions": [
-      {
-        "id": 1,
-        "title": "Example Transaction",
-        "amount": 100,
-        "category": "Food",
-        "description": "Example description",
-        "source": "Bank",
-        "date": "2025-04-16",
-        "type": "expense"
-      }
     ]
   }
   
