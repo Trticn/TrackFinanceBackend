@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: json-backend
+    name: track-expense-backend
     env: node
     buildCommand: npm install
     startCommand: npm start
