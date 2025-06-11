@@ -1,5 +1,5 @@
 {
-  "name": "json-backend",
+  "name": "track-expense-backend",
   "version": "1.0.0",
   "description": "Simple JSON Server backend",
   "main": "server.js",
