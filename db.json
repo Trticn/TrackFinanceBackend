@@ -1,5 +1,407 @@
 {
     "transactions": [
-    ]
+      
+        {
+          "title": "Freelance Project",
+          "amount": 500,
+          "category": "Freelance",
+          "description": "Zavrsen freelance projekat",
+          "source": "Bank Account",
+          "date": "2025-06-11T09:10:50.625Z",
+          "type": "income",
+          "id": 1
+        },
+        {
+          "title": "Grocery Shopping",
+          "amount": 75,
+          "category": "Food",
+          "description": "Namirnice za nedelju",
+          "source": "Credit Card",
+          "date": "2025-06-11T10:15:20.123Z",
+          "type": "expense",
+          "id": 2
+        },
+        {
+          "title": "Monthly Salary",
+          "amount": 1500,
+          "category": "Salary",
+          "description": "Plata za jun",
+          "source": "Employer Account",
+          "date": "2025-06-10T08:00:00.000Z",
+          "type": "income",
+          "id": 3
+        },
+        {
+          "title": "Bus Ticket",
+          "amount": 2.5,
+          "category": "Transport",
+          "description": "Karta za bus do posla",
+          "source": "Cash",
+          "date": "2025-06-11T07:30:10.500Z",
+          "type": "expense",
+          "id": 4
+        },
+        {
+          "title": "Stock Dividends",
+          "amount": 120,
+          "category": "Investments",
+          "description": "Dividende od akcija",
+          "source": "Bank Account",
+          "date": "2025-06-09T11:20:00.000Z",
+          "type": "income",
+          "id": 5
+        },
+        {
+          "title": "Movie Night",
+          "amount": 15,
+          "category": "Entertainment",
+          "description": "Ulaznica za bioskop",
+          "source": "Debit Card",
+          "date": "2025-06-10T21:00:00.000Z",
+          "type": "expense",
+          "id": 6
+        },
+        {
+          "title": "Gift from Aunt",
+          "amount": 100,
+          "category": "Gifts",
+          "description": "Poklon za rodjendan",
+          "source": "Cash",
+          "date": "2025-06-05T14:45:00.000Z",
+          "type": "income",
+          "id": 7
+        },
+        {
+          "title": "Health Checkup",
+          "amount": 50,
+          "category": "Health",
+          "description": "Pregled kod lekara",
+          "source": "Credit Card",
+          "date": "2025-06-08T10:30:00.000Z",
+          "type": "expense",
+          "id": 8
+        },
+        {
+          "title": "Rental Income June",
+          "amount": 600,
+          "category": "Rental Income",
+          "description": "Kirija za stan",
+          "source": "Bank Account",
+          "date": "2025-06-01T12:00:00.000Z",
+          "type": "income",
+          "id": 9
+        },
+        {
+          "title": "Electricity Bill",
+          "amount": 40,
+          "category": "Utilities",
+          "description": "Racun za struju",
+          "source": "Bank Account",
+          "date": "2025-06-06T16:00:00.000Z",
+          "type": "expense",
+          "id": 10
+        },
+        {
+          "title": "Side Business Sale",
+          "amount": 300,
+          "category": "Business",
+          "description": "Prodaja proizvoda",
+          "source": "Cash",
+          "date": "2025-06-07T13:00:00.000Z",
+          "type": "income",
+          "id": 11
+        },
+        {
+          "title": "Online Course",
+          "amount": 120,
+          "category": "Education",
+          "description": "Kupovina kurseva",
+          "source": "PayPal",
+          "date": "2025-06-02T09:00:00.000Z",
+          "type": "expense",
+          "id": 12
+        },
+        {
+          "title": "Savings Interest May",
+          "amount": 25,
+          "category": "Savings Interest",
+          "description": "Kamata na stednju",
+          "source": "Bank Account",
+          "date": "2025-06-01T00:00:00.000Z",
+          "type": "income",
+          "id": 13
+        },
+        {
+          "title": "Vacation Trip",
+          "amount": 800,
+          "category": "Travel",
+          "description": "Putovanje u Grcku",
+          "source": "Credit Card",
+          "date": "2025-05-30T07:00:00.000Z",
+          "type": "expense",
+          "id": 14
+        },
+        {
+          "title": "Donation to Charity",
+          "amount": 50,
+          "category": "Donations",
+          "description": "Donacija humanitarnoj organizaciji",
+          "source": "Debit Card",
+          "date": "2025-06-09T18:00:00.000Z",
+          "type": "expense",
+          "id": 15
+        },
+        {
+          "title": "Crypto Mining",
+          "amount": 90,
+          "category": "Investments",
+          "description": "Prihod od mining-a",
+          "source": "Crypto",
+          "date": "2025-06-10T20:00:00.000Z",
+          "type": "income",
+          "id": 16
+        },
+        {
+          "title": "Pet Food",
+          "amount": 30,
+          "category": "Pets",
+          "description": "Hrana za psa",
+          "source": "Cash",
+          "date": "2025-06-11T08:00:00.000Z",
+          "type": "expense",
+          "id": 17
+        },
+        {
+          "title": "Subscription Netflix",
+          "amount": 12,
+          "category": "Subscriptions",
+          "description": "Mesecna pretplata",
+          "source": "Debit Card",
+          "date": "2025-06-03T07:00:00.000Z",
+          "type": "expense",
+          "id": 18
+        },
+        {
+          "title": "Bonus from Employer",
+          "amount": 300,
+          "category": "Salary",
+          "description": "Bonus za dobar rad",
+          "source": "Employer Account",
+          "date": "2025-06-10T09:00:00.000Z",
+          "type": "income",
+          "id": 19
+        },
+        {
+          "title": "New Phone",
+          "amount": 700,
+          "category": "Shopping",
+          "description": "Kupovina novog telefona",
+          "source": "Credit Card",
+          "date": "2025-06-04T11:00:00.000Z",
+          "type": "expense",
+          "id": 20
+        },
+        {
+          "title": "Freelance Design",
+          "amount": 350,
+          "category": "Freelance",
+          "description": "Dizajn logotipa",
+          "source": "PayPal",
+          "date": "2025-06-08T15:00:00.000Z",
+          "type": "income",
+          "id": 21
+        },
+        {
+          "title": "Debt Payment",
+          "amount": 250,
+          "category": "Debt Payments",
+          "description": "Otplacivanje kredita",
+          "source": "Bank Account",
+          "date": "2025-06-07T13:00:00.000Z",
+          "type": "expense",
+          "id": 22
+        },
+        {
+          "title": "Other Income",
+          "amount": 45,
+          "category": "Other",
+          "description": "Razni prihodi",
+          "source": "Cash",
+          "date": "2025-06-09T10:00:00.000Z",
+          "type": "income",
+          "id": 23
+        },
+        {
+          "title": "Home Repairs",
+          "amount": 180,
+          "category": "Housing",
+          "description": "Popravka vodovoda",
+          "source": "Debit Card",
+          "date": "2025-06-06T12:00:00.000Z",
+          "type": "expense",
+          "id": 24
+        },
+        {
+          "title": "Business Consulting",
+          "amount": 400,
+          "category": "Business",
+          "description": "Konsultacije sa klijentom",
+          "source": "Bank Account",
+          "date": "2025-06-05T09:00:00.000Z",
+          "type": "income",
+          "id": 25
+        },
+        {
+          "title": "Mobile Data",
+          "amount": 20,
+          "category": "Utilities",
+          "description": "Internet paket za telefon",
+          "source": "Mobile Wallet",
+          "date": "2025-06-04T07:00:00.000Z",
+          "type": "expense",
+          "id": 26
+        },
+        {
+          "title": "Gift from Friend",
+          "amount": 60,
+          "category": "Gifts",
+          "description": "Poklon od prijatelja",
+          "source": "Cash",
+          "date": "2025-06-03T20:00:00.000Z",
+          "type": "income",
+          "id": 27
+        },
+        {
+          "title": "Insurance Premium",
+          "amount": 100,
+          "category": "Insurance",
+          "description": "Mesecna polisa osiguranja",
+          "source": "Bank Account",
+          "date": "2025-06-02T10:00:00.000Z",
+          "type": "expense",
+          "id": 28
+        },
+        {
+          "title": "Savings Deposit",
+          "amount": 200,
+          "category": "Savings Interest",
+          "description": "Uplata na stednju",
+          "source": "Bank Account",
+          "date": "2025-06-01T14:00:00.000Z",
+          "type": "income",
+          "id": 29
+        },
+        {
+          "title": "New Clothes",
+          "amount": 90,
+          "category": "Shopping",
+          "description": "Kupovina odece",
+          "source": "Credit Card",
+          "date": "2025-06-11T11:00:00.000Z",
+          "type": "expense",
+          "id": 30
+        },
+        {
+          "title": "Freelance Writing",
+          "amount": 270,
+          "category": "Freelance",
+          "description": "Pisanje clanaka",
+          "source": "PayPal",
+          "date": "2025-06-10T14:00:00.000Z",
+          "type": "income",
+          "id": 31
+        },
+        {
+          "title": "Subscription Spotify",
+          "amount": 10,
+          "category": "Subscriptions",
+          "description": "Muzicka pretplata",
+          "source": "Debit Card",
+          "date": "2025-06-09T08:00:00.000Z",
+          "type": "expense",
+          "id": 32
+        },
+        {
+          "title": "Investment Return",
+          "amount": 130,
+          "category": "Investments",
+          "description": "Profit od ulaganja",
+          "source": "Crypto",
+          "date": "2025-06-08T10:00:00.000Z",
+          "type": "income",
+          "id": 33
+        },
+        {
+          "title": "Taxi Ride",
+          "amount": 15,
+          "category": "Transport",
+          "description": "Voznja taksijem",
+          "source": "Mobile Wallet",
+          "date": "2025-06-07T19:00:00.000Z",
+          "type": "expense",
+          "id": 34
+        },
+        {
+          "title": "Pet Vet Visit",
+          "amount": 45,
+          "category": "Pets",
+          "description": "Pregled kod veterinara",
+          "source": "Cash",
+          "date": "2025-06-06T11:00:00.000Z",
+          "type": "expense",
+          "id": 35
+        },
+        {
+          "title": "Business Partnership",
+          "amount": 800,
+          "category": "Business",
+          "description": "Uplata partnera",
+          "source": "Bank Account",
+          "date": "2025-06-05T15:00:00.000Z",
+          "type": "income",
+          "id": 36
+        },
+        {
+          "title": "Online Shopping",
+          "amount": 55,
+          "category": "Shopping",
+          "description": "Kupovina preko interneta",
+          "source": "Credit Card",
+          "date": "2025-06-04T18:00:00.000Z",
+          "type": "expense",
+          "id": 37
+        },
+        {
+          "title": "Gift Received",
+          "amount": 35,
+          "category": "Gifts",
+          "description": "Poklon za rodjendan",
+          "source": "Cash",
+          "date": "2025-06-03T12:00:00.000Z",
+          "type": "income",
+          "id": 38
+        },
+        {
+          "title": "Electricity Refund",
+          "amount": 15,
+          "category": "Utilities",
+          "description": "Povracaj za racun",
+          "source": "Bank Account",
+          "date": "2025-06-02T14:00:00.000Z",
+          "type": "income",
+          "id": 39
+        },
+        {
+          "title": "Gym Membership",
+          "amount": 25,
+          "category": "Health",
+          "description": "Mesecna clanarina",
+          "source": "Debit Card",
+          "date": "2025-06-01T16:00:00.000Z",
+          "type": "expense",
+          "id": 40
+        }
+      ]
+      
   }
   
